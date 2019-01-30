@@ -6,7 +6,3 @@ class Dog
     @this_dogs_name
   end
 end
-
-dog = Dog.new 
-dog.name="Lassie"
-puts dog.name
