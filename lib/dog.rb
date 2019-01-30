@@ -8,5 +8,5 @@ class Dog
 end
 
 new_dog = Dog.new 
-new_dog="Lassie"
+new_dog.name="Lassie"
 puts new.dog.name
