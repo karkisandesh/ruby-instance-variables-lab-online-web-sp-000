@@ -7,6 +7,6 @@ class Dog
   end
 end
 
-new_dog = Dog.new 
-new_dog.name="Lassie"
+dog = Dog.new 
+dog.name="Lassie"
 puts new.dog.name
