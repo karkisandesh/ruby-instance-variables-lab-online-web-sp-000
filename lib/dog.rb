@@ -7,3 +7,6 @@ class Dog
   end
 end
 
+new_dog = Dog.new 
+new_dog="Lassie"
+puts new.dog.name
